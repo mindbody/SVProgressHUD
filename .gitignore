@@ -15,6 +15,7 @@ DerivedData/
 
 # Generated files
 build/
+.build
 *.[oa]
 *.pyc
 
